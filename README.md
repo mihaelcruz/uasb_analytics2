@@ -1,4 +1,3 @@
-#PRACTICA 2.2 (2da Instancia)
 ##Trabajando con Rapidminer
 
 El objetivo de esta práctica es la de adquirir conocimientos básicos en analítica de datos, uso de datasets y aplicación de conceptos de minería de datos con la herramienta "Rapidminer".
